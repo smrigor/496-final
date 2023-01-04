@@ -5,4 +5,6 @@
 
  I hope to build upon these lessons by creating a "translator" that takes your input and outputs a word or sentence that emulates a certain author's writing style.
 
- This repository will include the files I have worked on from November to December of 2022.
+ This repository includes the file I have worked on from November to December of 2022.
+
+In the end, I received an A in this class.
